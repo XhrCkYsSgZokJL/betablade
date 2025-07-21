@@ -247,7 +247,7 @@ For technical issues:
 
 ## 📄 License
 
-This software is provided as-is for educational and research purposes. Users are responsible for compliance with applicable trading regulations and risk management.
+This software is provided as-is for educational and research purposes. Users are responsible for compliance with applicable regulations and risk management.
 
 ---
 
